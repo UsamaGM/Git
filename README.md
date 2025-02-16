@@ -11,12 +11,12 @@ A Javascript based mockup of Git, the versatile version control system.
 
 ### Code Snippets
 #### Branch
-![Branch Code Snippet](https://github.com/UsamaGM/Git/blob/main/Branch.png)
+![Branch Code Snippet](https://github.com/UsamaGM/Git/blob/main/Images/Branch.png)
 #### Commit
-![Commit Code Snippet](https://github.com/UsamaGM/Git/blob/main/Commit.png)
+![Commit Code Snippet](https://github.com/UsamaGM/Git/blob/main/Images/Commit.png)
 #### Git
-![Git Code Snippet](https://github.com/UsamaGM/Git/blob/main/Git.png)
+![Git Code Snippet](https://github.com/UsamaGM/Git/blob/main/Images/Git.png)
 #### Example Run
-![Example Code Snippet](https://github.com/UsamaGM/Git/blob/main/Example%20Run.png)
+![Example Code Snippet](https://github.com/UsamaGM/Git/blob/main/Images/Example%20Run.png)
 #### Example Output
-![Example Output Snippet](https://github.com/UsamaGM/Git/blob/main/Example%20Output.png)
+![Example Output Snippet](https://github.com/UsamaGM/Git/blob/main/Images/Example%20Output.png)
